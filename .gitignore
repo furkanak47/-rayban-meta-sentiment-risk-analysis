@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.claude/
+cache_youtube_sentiment.csv
+cache_reddit_sentiment.csv
+rayban_meta_analiz.ipynb
+build_notebook.py
+Final Ödevi Dökümantasyon (1).docx

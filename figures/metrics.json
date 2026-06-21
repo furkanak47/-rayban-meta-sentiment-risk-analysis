@@ -1,0 +1,30 @@
+{
+  "toplam_satir": 64792,
+  "youtube_satir": 46348,
+  "google_play_satir": 15013,
+  "appstore_satir": 3232,
+  "reddit_satir": 199,
+  "platform_sayisi": 4,
+  "negatif_risk_orani": 0.3692,
+  "en_iyi_model": "Random Forest",
+  "en_iyi_auc": 0.8186,
+  "cv_auc": 0.8149,
+  "precision_opt": 0.6483,
+  "recall_opt": 0.7214,
+  "f1_opt": 0.6829,
+  "optimal_esik": 0.449,
+  "feature_sayisi": 11,
+  "sim_temel_net": 33917,
+  "sim_temel_roi": 267.1,
+  "sentiment_model": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+  "veri_kaynaklari": [
+    "YouTube",
+    "Google Play",
+    "App Store",
+    "Reddit",
+    "Google Trends",
+    "META Hisse",
+    "EssilorLuxottica Hisse",
+    "Haber Olayları"
+  ]
+}
